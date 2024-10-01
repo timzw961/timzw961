@@ -14,7 +14,7 @@
   "love": "JD",
   "interests": "Space, Airplanes, the smaller and finer details of many random assortments of things",
   "watching": "Anime, Good TV shows (Like severance, breaking bad, the last of us), movies",
-  "random": "Played competetive TF2, Grandmaster in Overwatch, Master in TFT (please note this was all during my ==younger/uni years== 🎓"
+  "random": "Played competetive TF2, Grandmaster in Overwatch, Master in TFT (during my younger/uni years🎓"
 }
 ```
 
