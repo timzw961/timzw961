@@ -1,7 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on new Frontend features in Qantas Hotels
-- 🌱 I’m currently learning Next.js (Page and App Router), TypeScript, Jest, Contentful, Redux, Sanity, Cypress E2E testing, Buildkite and more
+- 🌱 I’m currently learning AI-assisted workflows, AI usage and more
 - 💬 Ask me about space! I love topics such as black holes, lifecycle of stars, planets and more!
 - 😄 Pronouns: He/Him
 
@@ -9,7 +8,7 @@
 {
   "firstName": "Tim",
   "lastName": "Wang",
-  "age": "24 for the 5th time",
+  "age": "24 for the 6th time",
   "sports": "Tennis, Badminton, Table Tennis, Bouldering, Swimming",
   "love": "JD",
   "interests": "Space, Airplanes, the smaller and finer details of many random assortments of things",
@@ -20,4 +19,5 @@
 
 - [x] Complete a Software Development Rotation
 - [x] Score first Software Engineer Role
+- [ ] Get next Software Engineer Role
 - [ ] Learn the universe
