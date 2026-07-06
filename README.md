@@ -21,3 +21,5 @@
 - [x] Score first Software Engineer Role
 - [ ] Get next Software Engineer Role
 - [ ] Learn the universe
+
+Personal Site: https://timzwang.dev/
